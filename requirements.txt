@@ -1,1 +1,12 @@
+# Core
+flask
+twilio
+requests
+python-dotenv
 
+# AI / LLM / STT
+groq
+
+# Testing
+pytest
+pytest-mock
